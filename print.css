@@ -1,0 +1,174 @@
+body	{font-size: 8pt;
+	 line-height: 168%;
+	background-color: white;
+	color: black
+}
+
+Table	{font-size: 8pt;
+	 line-height: 168%;
+	border-collapse: collapse;
+	frames: void;
+	width: 95%;
+	rules: cols;
+	margin-right: 1%;
+	margin-left: -1%;
+	background-color: white;
+	color: black
+	
+}
+span	{color: black}
+OL	{color: black}
+LI	{color: black}
+B	{color: black}
+A	{color: black; font-style: normal; text-decoration: none}
+font	{color: black}
+div.borg	{color: black;
+	margin-left: 3%
+	}
+	div.1586 {align: right; width:100px}
+Table.vuilenbras	{align: right}
+IMG.vuilenbras	{align: right}
+IMG.gerard {width: 119px; heigth: 182px; align: middle}
+IMG.snelle	{width: 180px; height: 231px; align: right}
+IMG.roseboom	{width: 150px; height: 150px; align: right}
+IMG.enschot	{width: 117px; height: 224px}
+IMG.jcvermeulen	{width: 190px; height: 278px}
+IMG.rembertus	{width: 192px; height: 272px}
+IMG.fmulders	{width: 240px; height: 68px}
+IMG.brueghel	{width: 161px; height: 285px}
+IMG.nieuwen	{width: 294px; height: 171px}
+IMG.molenstraat	{width: 500px; height: 341px}
+Img.melders	{width: 192px; height: 61px}
+Img.molenstraat8	{width: 350px; height: 230px}
+Img.ursel	{width: 210px; height: 283px}
+Img.RO300	{width: 500px; height: 192px}
+Img.Muelders	{width: 220px; height: 71px}
+Img.1607	{width: 300px; height: 118px}
+Img.NO5287	{width: 192px; height: 153px}
+Img.driezussen	{width: 243px; height: 397px}
+Img.JJMulders1885	{width: 192px; height: 303px}
+Img.niek	{width: 250px; height: 155px}
+Img.broothuys	{width: 320px; height: 230px}
+Img.hohenlohe	{width: 190px; height: 234px}
+Img.dennis	{width: 255px; height: 359px}
+Img.kerkhoven	{width: 298px; height: 183px}
+Img.sacrae	{width: 266px; height: 147px}
+Img.rdam1626	{width: 300px; height: 186px}
+Img.rdam1640	{width: 250px; height: 136px; align: right}
+Img.rdam1603	{width: 400px; height: 160px; align: left}
+Img.breugel	{width: 346px; height: 263px}
+Img.gerardina1890	{width: 192px; height: 307px}
+Img.zandkant	{width: 240px; height: 240px}
+Img.heikant	{width: 320px; height: 226px}
+Img.rugdijk	{width: 310px; height: 186px}
+Img.sundert	{width: 320px; height: 201px}
+Img.blmolen	{width: 180px; height: 328px}
+Img.busselst	{width: 190px; height: 133px}
+Img.andries	{width: 304px; height: 66px}
+Img.elias	{width: 180px; height: 284px}
+Img.1733	{width: 270px; height: 81px}
+Img.1816	{width: 290px; height: 189px}
+IMG.mechtel	{width: 240px; height: 42px}
+IMG.GWRijsbroeck {width: 300px; height: 77px}
+IMG.jan1867 	{width: 120px; height: 299px}
+IMG.WGR 	{width: 232px; height: 44px}
+IMG.WoG		{width: 231px; height: 56px}
+IMG.JGR		{width: 236px; height: 48px}
+IMG.1767	{width: 290px; height: 123px}
+IMG.aeltien	{width: 350px; height: 137px; align: left}
+IMG.antonis	{width: 340px; height: 57px; align: left}
+IMG.rosen	{width: 320px; height: 231px; align: left}
+Table.1586	{page-break-inside: avoid; width: 200px; align: right}
+Table.rdam1626	{width: 320px; align: left}
+Table.rdam1640	{width: 320px; align: right}
+Table.rdam1603	{width: 320px; align: left}
+Table.someren	{width: 200px; align: right}
+Table.molenschot	{width: 200px;
+			align: right;
+			line-height: 128%}
+Table.1733	{width: 200px;
+			align: left;
+			line-height: 128%}
+IMG.molenschot	{align: right}
+TD.molenschot	{align: right}
+IMG.200		{width: 225px; height: 238px}
+IMG.raad1955	{width: 280px; height: 174px}
+IMG.mari	{width: 200px; height: 197px; align: right}
+IMG.pieter	{width: 180px; height: 225px; align: right}
+IMG.nierman	{width: 220px; height: 255px; align: right}
+IMG.koeien	{width: 310px; height: 348px}
+Table.zeshoeven	{page-break-inside: avoid; width: 220px; align: right}
+Img.zeshoeven	{width: 280px; height: 246px}
+DIV.zeshoeven	{page-break-inside: avoid}
+Img.bacx	{width: 200px; height: 293px; float: right}
+Img.strijdhoef	{width: 280px; height: 205px}
+IMG.raad	{width: 384px; height: 272px}
+IMG.comanszw	{display: none}
+IMG.comans	{display: inline; width: 120px; height: 143px; align: left}
+Table.comans	{width: 200px; align: right}
+
+Table.breugel	{width: 346px}
+Table.nieuwen	{width: 300px}
+TD.nieuwen	{font-size: 6pt;
+		line-height: 160%}
+Table.sacrae	{width: 300px}
+TD.sacrae	{font-size: 6pt;
+		line-height: 160%;
+		width: 310px}
+Div.pictogram	{display: none}
+TABLE.vessemz	{display: none}
+IMG.vessemz	{display: none}
+IMG.someren	{display: none}
+IMG.somerenwit	{display: inline; width: 150px; align: right}
+IMG.roy		{display: none}
+IMG.royzw	{display: inline; width: 210px; height: 240px; align: right}
+Table.roy	{width: 200px; align: right}
+IMG.vessemw	{display: inline; width: 180px; align: right}
+Img.galg	{width: 351px; height: 126px}
+Img.MPRoosen	{width: 290px; height: 53px}
+Img.MPRoosen2	{width: 290px; height: 66px}
+Img.Tongerlo	{width: 315px; height: 258px}
+Img.anthonie	{width: 280px; height: 83px}
+Img.norbert	{width: 240px; height: 65px}
+IMG.palm	{display: none}
+IMG.palmwit	{display: inline}
+IMG.kerk1787zw	{display: none}
+IMG.kerk1787wit	{display: inline; width: 150px; height: 272px}
+IMG.iris	{width: 217px; height: 238px}
+Img.Borcht1	{width: 304px; height: 244px}
+Img.heike	{width: 170px; height: 233px}
+Img.steede684	{width: 306px; height: 157px}
+Img.Borcht2	{width: 304px; height: 204px}
+Img.boot	{width: 305px; height: 220px}
+Img.jan1865.gif	{width: 200px; height: 98px}
+IMG.oist1831	{width: 335px; height: 201px}
+Table.mtblanc	{width: 245px; float: both}
+IMG.mtblanc	{width: 239px; height: 180px}
+IMG.viergen	{width: 280px; height: 186px}
+TD.mtblanc	{font-size: 6pt;
+		line-height: 160%}
+Div.1655	{display: none}
+Table.iris	{width: 235px; float: none}
+Table.gerard	{width: 122px}
+Table.gerardina	{width: 122px;
+		display: none}
+Table.toren	{font-size: 8pt;
+		 line-height: 168%;
+		border-collapse: collapse;
+		frames: void;
+		width: 125px;
+		margin-right: -1%}
+h5.enschot	{font-size: 6pt;
+		 line-height: 168%}
+Table.cal13	{width: 120px; float: right; margin: 1%}
+sup {font-size: 8pt; color: black}
+P {font-size: 8pt; line-height: 168%; color: black}
+P.hoofdkop {color: black}
+P.lead {color: black}
+P.author {color: black}
+Blockquote {line-height: 168%; color: black}
+H1 {font-size: 10pt; color: black}
+H2 {font-size: 9pt; line-height: 15pt; color: black}
+H3 {font-size: 10pt; color: white; font-weight: bold; color: black}
+H4 {font-size: 9pt; color: black}
+H5 {font-size: 7pt; font: arial; line-height: 140%; font-weight: 100; color: black}
